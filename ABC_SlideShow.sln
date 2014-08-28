@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC_SlideShow", "ABC_SlideS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfPageTransitions", "WpfPageTransitions\WpfPageTransitions.csproj", "{ED0AED12-1538-4E68-9954-E3BDDF844B01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollviewTest", "ScrollviewTest\ScrollviewTest.csproj", "{2CD8ED2D-AD84-49C7-9313-03D7AE80F81E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{ED0AED12-1538-4E68-9954-E3BDDF844B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED0AED12-1538-4E68-9954-E3BDDF844B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED0AED12-1538-4E68-9954-E3BDDF844B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD8ED2D-AD84-49C7-9313-03D7AE80F81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD8ED2D-AD84-49C7-9313-03D7AE80F81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD8ED2D-AD84-49C7-9313-03D7AE80F81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD8ED2D-AD84-49C7-9313-03D7AE80F81E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -10,3 +10,16 @@ C:\Users\linbinbin\Documents\abc_slideshow\ABC_SlideShow\WpfPageTransitions\obj\
 C:\Users\linbinbin\Documents\abc_slideshow\ABC_SlideShow\WpfPageTransitions\obj\Debug\WpfPageTransitions.csproj.GenerateResource.Cache
 C:\Users\linbinbin\Documents\abc_slideshow\ABC_SlideShow\WpfPageTransitions\obj\Debug\WpfPageTransitions.dll
 C:\Users\linbinbin\Documents\abc_slideshow\ABC_SlideShow\WpfPageTransitions\obj\Debug\WpfPageTransitions.pdb
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\WpfPageTransitions\bin\Debug\WpfPageTransitions.dll
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\WpfPageTransitions\bin\Debug\WpfPageTransitions.pdb
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\WpfPageTransitions\obj\Debug\WpfPageTransitions.csprojResolveAssemblyReference.cache
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\WpfPageTransitions\obj\Debug\PageTransition.g.cs
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\WpfPageTransitions\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\WpfPageTransitions\obj\Debug\WpfPageTransitions_MarkupCompile.cache
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\WpfPageTransitions\obj\Debug\WpfPageTransitions_MarkupCompile.lref
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\WpfPageTransitions\obj\Debug\PageTransition.baml
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\WpfPageTransitions\obj\Debug\WpfPageTransitions.g.resources
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\WpfPageTransitions\obj\Debug\WpfPageTransitions.Properties.Resources.resources
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\WpfPageTransitions\obj\Debug\WpfPageTransitions.csproj.GenerateResource.Cache
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\WpfPageTransitions\obj\Debug\WpfPageTransitions.dll
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\WpfPageTransitions\obj\Debug\WpfPageTransitions.pdb

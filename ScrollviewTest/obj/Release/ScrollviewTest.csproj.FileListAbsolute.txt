@@ -1,0 +1,12 @@
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\ScrollviewTest\bin\Release\ScrollviewTest.exe
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\ScrollviewTest\bin\Release\ScrollviewTest.pdb
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\ScrollviewTest\obj\Release\MainWindow.baml
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\ScrollviewTest\obj\Release\MainWindow.g.cs
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\ScrollviewTest\obj\Release\App.g.cs
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\ScrollviewTest\obj\Release\ScrollviewTest_MarkupCompile.cache
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\ScrollviewTest\obj\Release\ScrollviewTest.g.resources
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\ScrollviewTest\obj\Release\ScrollviewTest.Properties.Resources.resources
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\ScrollviewTest\obj\Release\ScrollviewTest.csproj.GenerateResource.Cache
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\ScrollviewTest\obj\Release\ScrollviewTest.exe
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\ScrollviewTest\obj\Release\ScrollviewTest.pdb
+C:\Users\linbinbin\Documents\abc\showcontrolsystem\GadgetApp\ScrollviewTest\obj\Release\ScrollviewTest.csprojResolveAssemblyReference.cache
